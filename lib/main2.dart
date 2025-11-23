@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(title: const Text('Mi App')),
         body: const Center(
           child: MitarjetaPersonalizada(
-            titulo: 'Tarjeta Principal',
-            subtitulo: 'Tarjeta Secundaria',
+            titulo: 'Tarjeta Principal de la App',
+            subtitulo: 'Tarjeta Secundaria de la App',
           ),
         ),
       ),
